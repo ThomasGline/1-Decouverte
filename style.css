@@ -1,3 +1,8 @@
 body{
   background-color: yellow;
 }
+.search_form{
+  background-color: green;
+  color: white;
+  padding: 1rem;
+}
